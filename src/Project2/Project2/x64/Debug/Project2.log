@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\pupil.F245-LAB\source\repos\game1\Project2\main.c(24,13): warning C4477: 'scanf_s' : format string '%49s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\pupil.F245-LAB\source\repos\game1\Project2\main.c(24,13):
+      this argument is used as a buffer size
+  
+C:\Users\pupil.F245-LAB\source\repos\game1\Project2\main.c(27,13): warning C4477: 'scanf_s' : format string '%49s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+      C:\Users\pupil.F245-LAB\source\repos\game1\Project2\main.c(27,13):
+      this argument is used as a buffer size
+  
+  Project2.vcxproj -> C:\Users\pupil.F245-LAB\source\repos\game1\Project2\x64\Debug\Project2.exe
